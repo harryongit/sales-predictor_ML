@@ -18,7 +18,7 @@ sales-predictor/
 │   ├── model.pkl        # Saved ML model (generated after training)
 │
 ├── data/
-│   └── sales\_data.csv   # Dummy dataset with 1000 rows of advertising & sales data
+│   └── sales_data.csv   # Dummy dataset with 1000 rows of advertising & sales data
 │
 ├── requirements.txt     # Python dependencies
 ├── README.md            # This file
@@ -40,7 +40,7 @@ sales-predictor/
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/sales-predictor.git
+git clone https://github.com/harryongit/sales-predictor.git
 cd sales-predictor
 ````
 
@@ -132,7 +132,7 @@ MIT License — feel free to use and modify!
 
 ## 👤 Author
 
-Created by [Your Name](https://github.com/your-username)
+Created by [Harry](https://github.com/harryongit)
 
 ---
 
