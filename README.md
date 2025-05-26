@@ -9,7 +9,7 @@ The model is trained using a Linear Regression algorithm on dummy sales data.
 
 ```
 
-sales-predictor/
+sales-predictor_ML/
 │
 ├── app/
 │   ├── model.py         # Script to train and save the ML model
@@ -40,8 +40,8 @@ sales-predictor/
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/harryongit/sales-predictor.git
-cd sales-predictor
+git clone https://github.com/harryongit/sales-predictor_ML.git
+cd sales-predictor_ML
 ````
 
 2. **Install dependencies**
