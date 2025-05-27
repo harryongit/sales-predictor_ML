@@ -134,9 +134,4 @@ MIT License — feel free to use and modify!
 
 Created by [Harry](https://github.com/harryongit)
 
----
-
-If you want me to help create a GitHub Actions workflow or deploy this API somewhere, just ask!
-
-```
 
