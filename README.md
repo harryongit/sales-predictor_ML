@@ -1,6 +1,6 @@
-# 📈 Sales Predictor
+# 📈 SaleCast
 
-A simple machine learning API built with **FastAPI** to predict sales based on advertising spend.  
+A simple machine learning API built with **FastAPI** to predict sales based on advertising spend.
 The model is trained using a Linear Regression algorithm on dummy sales data.
 
 ---
@@ -8,8 +8,7 @@ The model is trained using a Linear Regression algorithm on dummy sales data.
 ## 🧱 Project Structure
 
 ```
-
-sales-predictor_ML/
+SaleCast/
 │
 ├── app/
 │   ├── model.py         # Script to train and save the ML model
@@ -23,8 +22,7 @@ sales-predictor_ML/
 ├── requirements.txt     # Python dependencies
 ├── README.md            # This file
 ├── .gitignore           # Git ignore rules
-
-````
+```
 
 ---
 
@@ -32,17 +30,17 @@ sales-predictor_ML/
 
 ### Prerequisites
 
-- Python 3.7+
-- `pip` package manager
+* Python 3.7+
+* `pip` package manager
 
 ### Installation
 
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/harryongit/sales-predictor_ML.git
-cd sales-predictor_ML
-````
+git clone https://github.com/harryongit/SaleCast.git
+cd SaleCast
+```
 
 2. **Install dependencies**
 
@@ -133,5 +131,3 @@ MIT License — feel free to use and modify!
 ## 👤 Author
 
 Created by [Harry](https://github.com/harryongit)
-
-
